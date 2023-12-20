@@ -1,6 +1,4 @@
 ipywidgets
 matplotlib
 numpy
-math
-builtins
 voila>=0.1.8
